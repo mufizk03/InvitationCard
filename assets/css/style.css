@@ -737,7 +737,7 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  height: 140vh;
+  height: 160vh; /* change by phone*/
   position: relative;
   color: #fff;
 }
